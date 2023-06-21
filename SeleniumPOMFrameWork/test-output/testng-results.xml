@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="11" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T19:24:31 IST" name="POMSuite" finished-at="2023-06-20T19:29:13 IST" duration-ms="281234">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T19:24:31 IST" name="POMTest" finished-at="2023-06-20T19:29:13 IST" duration-ms="281234">
+      <class name="com.automation.tests.LeadTest">
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:25:44 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:25:50 IST" duration-ms="5465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcLead()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:25:50 IST" name="sfdcLead" finished-at="2023-06-20T19:26:16 IST" duration-ms="26661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcLead -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:26:16 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:26:17 IST" duration-ms="589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:26:17 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:26:23 IST" duration-ms="5806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcLeadGo()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:26:23 IST" name="sfdcLeadGo" finished-at="2023-06-20T19:27:10 IST" duration-ms="46924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcLeadGo -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:27:10 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:27:10 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:27:10 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:27:16 IST" duration-ms="5934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcLeadHome()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:27:16 IST" name="sfdcLeadHome" finished-at="2023-06-20T19:27:49 IST" duration-ms="33014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcLeadHome -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:27:49 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:27:50 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:27:50 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:27:54 IST" duration-ms="4591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcLeadNewButtonCheck()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:27:54 IST" name="sfdcLeadNewButtonCheck" finished-at="2023-06-20T19:28:33 IST" duration-ms="39208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcLeadNewButtonCheck -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:28:33 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:28:35 IST" duration-ms="1070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:28:35 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:28:39 IST" duration-ms="4332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcTodayLead()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:28:39 IST" name="sfdcTodayLead" finished-at="2023-06-20T19:29:12 IST" duration-ms="33562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcTodayLead -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LeadTest@3527942a]" started-at="2023-06-20T19:29:12 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:29:13 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.automation.tests.LeadTest -->
+      <class name="com.automation.tests.LoginTest">
+        <test-method is-config="true" signature="setUpForBeforeTest()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:32 IST" name="setUpForBeforeTest" finished-at="2023-06-20T19:24:33 IST" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForBeforeTest -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:33 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:24:39 IST" duration-ms="6253" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcEmptyPassword()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:39 IST" name="sfdcEmptyPassword" finished-at="2023-06-20T19:24:41 IST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcEmptyPassword -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:41 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:24:41 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:41 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:24:48 IST" duration-ms="6811" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcForgotPwd()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:48 IST" name="sfdcForgotPwd" finished-at="2023-06-20T19:24:51 IST" duration-ms="3542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcForgotPwd -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:51 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:24:52 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:52 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:24:57 IST" duration-ms="5747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcInvalidLogin()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:24:57 IST" name="sfdcInvalidLogin" finished-at="2023-06-20T19:25:02 IST" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcInvalidLogin -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:02 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:25:02 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:02 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:25:08 IST" duration-ms="5935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcRememberCheck()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:08 IST" name="sfdcRememberCheck" finished-at="2023-06-20T19:25:26 IST" duration-ms="18188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcRememberCheck -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:26 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:25:26 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:26 IST" name="setUpBeforeTestMethod" finished-at="2023-06-20T19:25:32 IST" duration-ms="5319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="sfdcvalidLogin()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:32 IST" name="sfdcvalidLogin" finished-at="2023-06-20T19:25:44 IST" duration-ms="12356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfdcvalidLogin -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.LoginTest@273e7444]" started-at="2023-06-20T19:25:44 IST" name="tearDownAfterTestMethod" finished-at="2023-06-20T19:25:44 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.automation.tests.LoginTest -->
+    </test> <!-- POMTest -->
+  </suite> <!-- POMSuite -->
+</testng-results>

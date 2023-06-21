@@ -1,0 +1,540 @@
+20230619 17:52:59 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 17:53:05 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 17:53:05 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 17:53:05 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 17:58:00 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 17:58:04 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 17:58:04 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230619 17:58:04 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:03:32 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:03:35 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:03:35 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 18:03:36 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:04:43 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:04:46 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:04:46 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 18:04:46 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:06:27 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:06:30 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:06:30 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 18:06:30 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:08:08 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:08:11 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:08:11 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 18:08:11 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:09:36 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:09:39 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:09:39 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 18:09:39 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (1dbe55a3f56206a1d0374d215f453cc2)
+20230619 18:09:39 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:09:39 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:09:40 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:09:40 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:09:54 INFO  [main] tests.LoginTest LoginTest.java52 - Testscript TC-02 execution completed
+20230619 18:09:54 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:22:08 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:22:11 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:22:11 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230619 18:22:11 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (70d7beaf10b7a43aae4040320ca90145)
+20230619 18:22:11 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:22:11 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:22:12 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:22:12 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:22:27 INFO  [main] tests.LoginTest LoginTest.java52 - Testscript TC-02 execution completed
+20230619 18:22:27 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:22:50 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:22:53 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:22:53 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:22:53 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (110ea0bdb16756e567c7542524a5f42a)
+20230619 18:22:53 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (110ea0bdb16756e567c7542524a5f42a)
+20230619 18:22:53 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:22:54 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:22:54 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:22:54 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:23:06 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:34:54 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:34:57 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:34:58 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:34:58 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (010d9ea775f80b67b2b3065972f1ef93)
+20230619 18:34:58 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (010d9ea775f80b67b2b3065972f1ef93)
+20230619 18:34:58 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:34:59 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:34:59 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:34:59 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:35:12 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:37:52 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:37:56 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:37:56 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:37:56 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (7551aa5eb5d2f07c9bf8aa80c1a61a8d)
+20230619 18:37:56 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (7551aa5eb5d2f07c9bf8aa80c1a61a8d)
+20230619 18:37:56 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:37:57 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:37:58 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:37:58 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:38:12 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:41:21 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:41:23 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:41:23 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:41:23 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (d225e16e6f4a3c23c3462bbdcc925f68)
+20230619 18:41:24 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (d225e16e6f4a3c23c3462bbdcc925f68)
+20230619 18:41:24 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:41:24 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:41:25 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:41:25 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:41:49 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:47:41 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:47:45 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:47:45 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:47:45 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (9e02b359a9a09c7d73197b0a31f7d2e0)
+20230619 18:47:45 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (9e02b359a9a09c7d73197b0a31f7d2e0)
+20230619 18:47:45 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:47:46 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:47:46 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:47:47 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:48:02 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:48:32 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:48:34 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:48:34 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:48:34 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (16825924e540f140b969d45e66f864b3)
+20230619 18:48:34 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (16825924e540f140b969d45e66f864b3)
+20230619 18:48:34 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:48:35 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:48:35 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:48:36 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:48:53 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:49:16 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:49:19 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:49:19 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:49:19 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (331f803678f0e23d489121d1350842ca)
+20230619 18:49:19 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (331f803678f0e23d489121d1350842ca)
+20230619 18:49:20 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:49:20 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:49:20 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:49:20 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:49:41 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:52:02 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:52:05 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:52:05 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:52:05 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (4fcb8ae648b8f95bbb372df1e31edc0d)
+20230619 18:52:05 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (4fcb8ae648b8f95bbb372df1e31edc0d)
+20230619 18:52:05 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:52:06 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:52:06 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:52:06 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:52:37 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 18:55:17 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 18:55:21 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 18:55:21 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 18:55:21 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (b54e335a124bee486d61e04901b79f3e)
+20230619 18:55:21 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (b54e335a124bee486d61e04901b79f3e)
+20230619 18:55:21 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 18:55:21 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 18:55:21 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 18:55:22 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 18:55:49 INFO  [main] tests.LeadTest LeadTest.java23 - Test Script TC-20 is executed successfully
+20230619 18:55:49 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 19:32:42 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 19:32:46 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 19:32:46 INFO  [main] tests.LeadTest LeadTest.java15 - Test Script TC-20 is started successfully
+20230619 19:32:46 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (6a848474e35fc080b50f62aac11e5ffd)
+20230619 19:32:46 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (6a848474e35fc080b50f62aac11e5ffd)
+20230619 19:32:46 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 19:32:47 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230619 19:32:47 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 19:32:48 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230619 19:33:15 INFO  [main] tests.LeadTest LeadTest.java23 - Test Script TC-20 is executed successfully
+20230619 19:33:15 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 19:50:36 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 19:50:40 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 19:50:40 INFO  [main] tests.LeadTest LeadTest.java35 - Test Script TC-21 is started successfully
+20230619 19:50:40 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0d7ca37c9b492d1bd60b2b6f14a8e9e3)
+20230619 19:50:40 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0d7ca37c9b492d1bd60b2b6f14a8e9e3)
+20230619 19:50:40 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 19:50:40 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230619 19:50:40 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 19:50:41 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230619 19:51:04 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 19:52:51 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 19:52:55 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 19:52:55 INFO  [main] tests.LeadTest LeadTest.java35 - Test Script TC-21 is started successfully
+20230619 19:52:55 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (bca0ecb37e8a37d2fefb69065774ae29)
+20230619 19:52:55 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (bca0ecb37e8a37d2fefb69065774ae29)
+20230619 19:52:55 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 19:52:56 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230619 19:52:56 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 19:52:56 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230619 19:53:20 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 19:55:06 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 19:55:10 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 19:55:10 INFO  [main] tests.LeadTest LeadTest.java35 - Test Script TC-21 is started successfully
+20230619 19:55:10 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (7b0c8468a939ce5eae0528b1145c61a2)
+20230619 19:55:10 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (7b0c8468a939ce5eae0528b1145c61a2)
+20230619 19:55:10 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 19:55:11 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230619 19:55:11 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 19:55:11 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230619 19:55:43 INFO  [main] tests.LeadTest LeadTest.java45 - Test Script TC-21 is executed successfully
+20230619 19:55:44 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230619 20:57:09 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230619 20:57:13 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230619 20:57:13 INFO  [main] tests.LeadTest LeadTest.java48 - Test Script TC-22 is started successfully
+20230619 20:57:13 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (128b4f187a2eef12544e28dfbc4849ff)
+20230619 20:57:13 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (128b4f187a2eef12544e28dfbc4849ff)
+20230619 20:57:13 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 20:57:13 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230619 20:57:14 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 20:57:14 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230619 20:57:50 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (128b4f187a2eef12544e28dfbc4849ff)
+20230619 20:57:50 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230619 20:57:51 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230619 20:57:51 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230619 20:57:51 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230619 20:58:04 INFO  [main] tests.LeadTest LeadTest.java64 - Test Script TC-22 is executed successfully
+20230619 20:58:05 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 12:22:35 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 12:22:45 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 12:22:45 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 12:22:45 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (30ad1d9e88041b8e1caad30a0f233bea)
+20230620 12:22:45 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 12:22:46 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 12:22:47 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 12:22:47 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 12:22:48 INFO  [main] tests.LoginTest LoginTest.java35 - Testscript TC-01 execution completed
+20230620 12:22:48 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 14:38:29 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 14:38:32 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 14:38:32 INFO  [main] tests.LoginTest LoginTest.java79 - Test script TC-04A is started
+20230620 14:38:32 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (f5ce9e6211122ec362838a7ed5225d07)
+20230620 14:38:32 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 14:38:32 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 14:38:33 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 14:38:35 INFO  [main] tests.LoginTest LoginTest.java89 - Testscript TC-04A execution completed
+20230620 14:38:36 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:18:25 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:18:28 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:18:28 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 17:18:29 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (b2aa058a3f3f0fb1fcbc762cbb8601ee)
+20230620 17:18:30 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:18:31 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:18:31 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:18:31 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:18:32 INFO  [main] tests.LoginTest LoginTest.java35 - Testscript TC-01 execution completed
+20230620 17:18:33 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:18:36 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:18:45 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:18:45 INFO  [main] tests.LoginTest LoginTest.java79 - Test script TC-04A is started
+20230620 17:18:45 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (8fac3a83c5810ee2f6b65b5d7513b1ea)
+20230620 17:18:45 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:18:45 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:18:46 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:18:48 INFO  [main] tests.LoginTest LoginTest.java89 - Testscript TC-04A execution completed
+20230620 17:18:49 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:18:50 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:18:54 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:18:54 INFO  [main] tests.LoginTest LoginTest.java95 - Test script TC-04B is started
+20230620 17:18:54 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (5170ba374b3841b94b6fdf34c6f1cbfa)
+20230620 17:18:54 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:18:55 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:18:55 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:18:55 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:18:55 INFO  [main] tests.LoginTest LoginTest.java106 - testscript TC04B execution completed
+20230620 17:18:56 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:18:59 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:19:03 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:19:03 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 17:19:03 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (28c1a61101e992d33782c4175f92f877)
+20230620 17:19:03 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:19:03 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:19:03 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:19:03 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:21:45 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:21:50 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:21:50 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 17:21:50 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (93c060ae0cb132f71a68548476ccc70f)
+20230620 17:21:50 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:21:50 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:21:50 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:21:50 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:22:03 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:24:44 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:24:47 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:24:47 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 17:24:47 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (b7c80aacc0c0a15a1f6f0ae9548f7eec)
+20230620 17:24:47 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:24:49 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:24:49 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:24:50 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:25:06 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:26:15 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:26:18 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:26:18 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 17:26:18 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (6c1c33cc5c11179c702e5c4282372344)
+20230620 17:26:18 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:26:19 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:26:20 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:26:20 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:26:35 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:27:45 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:27:48 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:27:48 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 17:27:48 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (2c96d528a2aeb227c962392429b1f676)
+20230620 17:27:48 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:27:48 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:27:49 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:27:49 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:28:09 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:35:14 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:35:18 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:35:18 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 17:35:18 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (09014b551b1c9fdd915509e7c5624fe0)
+20230620 17:35:18 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:35:18 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:35:19 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:35:19 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:38:00 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:38:05 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:38:05 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 17:38:05 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (c59cda92a285f293e8d9fa7cee67acea)
+20230620 17:38:05 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:38:05 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:38:06 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:38:06 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:38:07 INFO  [main] tests.LoginTest LoginTest.java35 - Testscript TC-01 execution completed
+20230620 17:38:08 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:38:28 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:38:32 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:38:32 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230620 17:38:32 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (9c16f6cbe8c636b506af0ffb490d7e17)
+20230620 17:38:32 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:38:33 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:38:33 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:38:33 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:38:47 INFO  [main] tests.LoginTest LoginTest.java52 - Testscript TC-02 execution completed
+20230620 17:38:47 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:39:16 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:39:20 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:39:20 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 17:39:20 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (05902dde560b498c3a18eac5ffe9edf3)
+20230620 17:39:20 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:39:21 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:39:21 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:39:21 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:39:39 INFO  [main] tests.LoginTest LoginTest.java72 - Testscript TC-03 execution completed
+20230620 17:39:40 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:40:16 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:40:20 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:40:20 INFO  [main] tests.LeadTest LeadTest.java18 - Test Script TC-20 is started successfully
+20230620 17:40:20 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0e204e5e4c5873501d9b03e798ce7309)
+20230620 17:40:20 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0e204e5e4c5873501d9b03e798ce7309)
+20230620 17:40:20 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:40:20 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:40:21 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:40:21 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:40:49 INFO  [main] tests.LeadTest LeadTest.java26 - Test Script TC-20 is executed successfully
+20230620 17:40:49 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:40:50 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:40:54 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:40:54 INFO  [main] tests.LeadTest LeadTest.java48 - Test Script TC-22 is started successfully
+20230620 17:40:54 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (05c948ae7ecdc2a88d17e504dd2947c3)
+20230620 17:40:54 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (05c948ae7ecdc2a88d17e504dd2947c3)
+20230620 17:40:54 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:40:55 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:40:55 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:40:56 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:41:30 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (05c948ae7ecdc2a88d17e504dd2947c3)
+20230620 17:41:30 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:41:31 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:41:31 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:41:31 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:41:43 INFO  [main] tests.LeadTest LeadTest.java64 - Test Script TC-22 is executed successfully
+20230620 17:41:43 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 17:41:45 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 17:41:49 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 17:41:49 INFO  [main] tests.LeadTest LeadTest.java32 - Test Script TC-21 is started successfully
+20230620 17:41:49 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (e3acd9fa0114d3dd22af0944e0cd750f)
+20230620 17:41:49 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (e3acd9fa0114d3dd22af0944e0cd750f)
+20230620 17:41:49 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 17:41:49 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 17:41:49 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 17:41:49 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 17:42:21 INFO  [main] tests.LeadTest LeadTest.java42 - Test Script TC-21 is executed successfully
+20230620 17:42:21 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 18:55:51 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 18:55:57 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 18:55:57 INFO  [main] tests.LeadTest LeadTest.java70 - Test Script TC-23 is started successfully
+20230620 18:55:57 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (3709e8fe3b8afc5d2fda616e748c39a3)
+20230620 18:55:57 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (3709e8fe3b8afc5d2fda616e748c39a3)
+20230620 18:55:57 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 18:55:57 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 18:55:57 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 18:55:57 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 18:56:39 INFO  [main] tests.LeadTest LeadTest.java82 - Test Script TC-23 is executed successfully
+20230620 18:56:39 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:15:02 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:15:06 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:15:06 INFO  [main] tests.LeadTest LeadTest.java88 - Test Script TC-24 is started successfully
+20230620 19:15:06 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (09629cfdfa3873a6a03803bbdb32f0e3)
+20230620 19:15:06 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (09629cfdfa3873a6a03803bbdb32f0e3)
+20230620 19:15:06 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 19:15:07 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:15:07 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 19:15:08 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:15:38 INFO  [main] base.BasePage BasePage.java73 - pass:last name element is cleared
+20230620 19:15:39 INFO  [main] base.BasePage BasePage.java73 - pass:Company name element is cleared
+20230620 19:15:51 INFO  [main] tests.LeadTest LeadTest.java105 - Test Script TC-24 is executed successfully
+20230620 19:15:53 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:20:28 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:20:32 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:20:33 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 19:20:33 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (b0e05ec940f8aba0ffe93dbfc2d65690)
+20230620 19:20:33 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 19:20:34 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:20:34 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 19:20:34 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:21:24 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:21:28 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:21:28 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 19:21:28 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (8a05e4338fdbcdb22d4f0d5c5a42cef3)
+20230620 19:21:29 INFO  [main] login.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 19:21:29 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:21:29 INFO  [main] login.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 19:21:30 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:21:32 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:23:25 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:23:29 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:23:30 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 19:23:30 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (fa13d4d234db7ab39fe8ba2cca0b1184)
+20230620 19:23:30 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:23:31 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:23:32 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:23:32 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:23:33 INFO  [main] tests.LoginTest LoginTest.java35 - Testscript TC-01 execution completed
+20230620 19:23:33 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:23:34 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:23:38 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:23:38 INFO  [main] tests.LoginTest LoginTest.java78 - Test script TC-04A is started
+20230620 19:23:38 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (2c7e529e01b26759ad92f86124c44d9a)
+20230620 19:23:38 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:23:39 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:23:41 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:23:43 INFO  [main] tests.LoginTest LoginTest.java88 - Testscript TC-04A execution completed
+20230620 19:23:43 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:23:45 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:23:49 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:23:49 INFO  [main] tests.LoginTest LoginTest.java94 - Test script TC-04B is started
+20230620 19:23:49 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (aa585731ea4db35932df82434fa758d7)
+20230620 19:23:49 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:23:49 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:23:50 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:23:50 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:24:35 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:24:39 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:24:39 INFO  [main] tests.LoginTest LoginTest.java21 - Test script TC-01 is started
+20230620 19:24:39 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (ee78851786e37ae4ce375b8d87a6db65)
+20230620 19:24:39 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:24:39 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:24:39 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:24:40 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:24:41 INFO  [main] tests.LoginTest LoginTest.java35 - Testscript TC-01 execution completed
+20230620 19:24:41 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:24:44 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:24:48 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:24:48 INFO  [main] tests.LoginTest LoginTest.java78 - Test script TC-04A is started
+20230620 19:24:48 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (dcab9334860c7cb4824b67b8d4869746)
+20230620 19:24:48 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:24:48 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:24:49 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:24:51 INFO  [main] tests.LoginTest LoginTest.java88 - Testscript TC-04A execution completed
+20230620 19:24:52 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:24:54 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:24:57 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:24:57 INFO  [main] tests.LoginTest LoginTest.java94 - Test script TC-04B is started
+20230620 19:24:57 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (5cefa2c26bab2af5bd427392d04890bf)
+20230620 19:24:57 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:24:58 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:24:59 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:24:59 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:25:02 INFO  [main] tests.LoginTest LoginTest.java105 - testscript TC04B execution completed
+20230620 19:25:02 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:25:04 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:25:08 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:25:08 INFO  [main] tests.LoginTest LoginTest.java58 - Test script TC-03 is started
+20230620 19:25:08 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (a26e85332358a5abbe82b5d0dfa50df9)
+20230620 19:25:08 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:25:08 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:25:09 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:25:09 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:25:26 INFO  [main] tests.LoginTest LoginTest.java72 - Testscript TC-03 execution completed
+20230620 19:25:26 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:25:28 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:25:32 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:25:32 INFO  [main] tests.LoginTest LoginTest.java41 - Test script TC-02 is started
+20230620 19:25:32 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (47c4f8085551123f4bce2dea15b347df)
+20230620 19:25:32 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:25:32 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:25:33 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:25:33 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:25:44 INFO  [main] tests.LoginTest LoginTest.java52 - Testscript TC-02 execution completed
+20230620 19:25:44 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:25:46 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:25:50 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:25:50 INFO  [main] tests.LeadTest LeadTest.java16 - Test Script TC-20 is started successfully
+20230620 19:25:50 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (afc6eb30343db80fba5d7235362bed39)
+20230620 19:25:50 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (afc6eb30343db80fba5d7235362bed39)
+20230620 19:25:50 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:25:50 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:25:50 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:25:51 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:26:16 INFO  [main] tests.LeadTest LeadTest.java24 - Test Script TC-20 is executed successfully
+20230620 19:26:17 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:26:19 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:26:23 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:26:23 INFO  [main] tests.LeadTest LeadTest.java46 - Test Script TC-22 is started successfully
+20230620 19:26:23 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0491b427f15c6872c535e577d01ae31c)
+20230620 19:26:23 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0491b427f15c6872c535e577d01ae31c)
+20230620 19:26:23 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:26:23 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:26:23 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:26:23 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:26:59 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (0491b427f15c6872c535e577d01ae31c)
+20230620 19:26:59 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:26:59 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:27:00 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:27:00 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:27:10 INFO  [main] tests.LeadTest LeadTest.java62 - Test Script TC-22 is executed successfully
+20230620 19:27:10 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:27:12 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:27:16 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:27:16 INFO  [main] tests.LeadTest LeadTest.java30 - Test Script TC-21 is started successfully
+20230620 19:27:16 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (ab39e08cb2d139dd5fabbcb103dd29dc)
+20230620 19:27:16 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (ab39e08cb2d139dd5fabbcb103dd29dc)
+20230620 19:27:16 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:27:16 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:27:17 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:27:17 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:27:49 INFO  [main] tests.LeadTest LeadTest.java40 - Test Script TC-21 is executed successfully
+20230620 19:27:50 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:27:51 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:27:54 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:27:54 INFO  [main] tests.LeadTest LeadTest.java86 - Test Script TC-24 is started successfully
+20230620 19:27:54 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (25507ca61e202c8146897944f28409f7)
+20230620 19:27:54 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (25507ca61e202c8146897944f28409f7)
+20230620 19:27:54 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:27:55 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:27:55 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:27:55 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:28:23 INFO  [main] base.BasePage BasePage.java73 - pass:last name element is cleared
+20230620 19:28:23 INFO  [main] base.BasePage BasePage.java73 - pass:Company name element is cleared
+20230620 19:28:33 INFO  [main] tests.LeadTest LeadTest.java103 - Test Script TC-24 is executed successfully
+20230620 19:28:35 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
+20230620 19:28:36 INFO  [main] base.BaseTest BaseTest.java63 - Chrome browser is opened
+20230620 19:28:39 INFO  [main] base.BaseTest BaseTest.java69 - https://login.salesforce.com/ is entered
+20230620 19:28:39 INFO  [main] tests.LeadTest LeadTest.java68 - Test Script TC-23 is started successfully
+20230620 19:28:39 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (d8387fd97e720788c9daa8268fd74226)
+20230620 19:28:39 INFO  [main] base.BasePage BasePage.java37 - driver in basePage=ChromeDriver: chrome on WINDOWS (d8387fd97e720788c9daa8268fd74226)
+20230620 19:28:39 INFO  [main] login.LoginPage LoginPage.java44 - entering into the login page for the username
+20230620 19:28:39 INFO  [main] base.BasePage BasePage.java73 - pass:usernameelement is cleared
+20230620 19:28:39 INFO  [main] login.LoginPage LoginPage.java50 - entering into the login page for the Password
+20230620 19:28:39 INFO  [main] base.BasePage BasePage.java73 - pass:Passwordelement is cleared
+20230620 19:29:12 INFO  [main] tests.LeadTest LeadTest.java80 - Test Script TC-23 is executed successfully
+20230620 19:29:13 INFO  [main] base.BaseTest BaseTest.java75 - current browser is closed
